@@ -41,13 +41,8 @@
 <br>
 <br><br><p align="center"><img src="https://cdn.cafecito.app/imgs/background-withoutbanner.webp"></p>
 <br>
-<br><br><br>
-<br><br>
-
 <!------------------------->
-
   <br>
-<br><br>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
