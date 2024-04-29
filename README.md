@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋  soy Marcos / MarcosMaciasDesarrollador ✨ </h1> 
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -12,15 +13,15 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 LICENCIADO EN INFORMATICA ADMINISTRATIVA Y LIC EN ADMINISTRACION INDUSTRIAL
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 PEQUEÑO SER HUMANO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 7 para no quemar mi edad 🙈)
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **marcosmacias.pe@gmail.com**
 <!--Intro end-->
   </p>
 <br>
